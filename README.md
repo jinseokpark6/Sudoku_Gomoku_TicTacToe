@@ -3,7 +3,7 @@ Created Sudoku, Gomoku, TicTacToe games with C++
 
 
 ========================================================================
-    CONSOLE APPLICATION : Lab4 Project Overview
+    CONSOLE APPLICATION : Project Overview
 ========================================================================
 Jin Hoon Jung 406120
 Jin Seok Park 420430
